@@ -31,7 +31,7 @@ Follow these steps to get the application up and running on your local machine:
 4. Open your browser and go to `http://localhost:5173` to see the application in action.
 
 
-## Dependenciesss
+## Dependencies
 
 - **react**: A JavaScript library for building user interfaces.
 - **react-dom** : Serves as the entry point to the DOM and server renderers for React.
