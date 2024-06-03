@@ -14,8 +14,8 @@ Follow these steps to get the application up and running on your local machine:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/ayyush08/markdown-preview-app.git
-    cd markdown-preview-app
+    git clone https://github.com/ayyush08/MarkDown-Preview.git
+    cd MarkDown-Preview
     ```
 
 2. **Install dependencies**:
@@ -37,3 +37,6 @@ Follow these steps to get the application up and running on your local machine:
 - **react-markdown** : A React component for rendering Markdown.
 - **vite** : A fast build tool for modern web projects, used for serving and building the application.
 
+## Contributions
+
+Any sorts of contributions or suggestions are most welcome.
